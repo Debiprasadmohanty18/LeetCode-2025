@@ -1,4 +1,4 @@
-package com.tanmay.LeetCodeEasyProblems;
+package com.tanmay.LeetCodeJanuary;
 
 public class CountPrefixAndSuffixPairsI {
 
