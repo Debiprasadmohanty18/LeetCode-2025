@@ -5,8 +5,6 @@ A prefix common array of A and B is an array C such that C[i] is equal to the co
 Return the prefix common array of A and B.
 A sequence of n integers is called a permutation if it contains all integers from 1 to n exactly once.
 
- 
-
 Example 1:
 
 Input: A = [1,3,2,4], B = [3,1,2,4]
